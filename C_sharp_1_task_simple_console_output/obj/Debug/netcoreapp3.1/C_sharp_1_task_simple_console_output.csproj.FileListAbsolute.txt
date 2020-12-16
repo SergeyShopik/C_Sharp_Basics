@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\bin\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.exe
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\bin\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.deps.json
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\bin\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.runtimeconfig.json
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\bin\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\bin\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.dll
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\bin\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.pdb
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.AssemblyInfo.cs
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.dll
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.pdb
+C:\Users\HP\source\repos\C_sharp_1_task_simple_console_output\obj\Debug\netcoreapp3.1\C_sharp_1_task_simple_console_output.genruntimeconfig.cache

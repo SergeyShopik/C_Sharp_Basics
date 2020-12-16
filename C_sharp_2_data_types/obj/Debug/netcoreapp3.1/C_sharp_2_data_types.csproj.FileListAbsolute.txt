@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\C_sharp_2_data_types\bin\Debug\netcoreapp3.1\C_sharp_2_data_types.exe
+C:\Users\HP\source\repos\C_sharp_2_data_types\bin\Debug\netcoreapp3.1\C_sharp_2_data_types.deps.json
+C:\Users\HP\source\repos\C_sharp_2_data_types\bin\Debug\netcoreapp3.1\C_sharp_2_data_types.runtimeconfig.json
+C:\Users\HP\source\repos\C_sharp_2_data_types\bin\Debug\netcoreapp3.1\C_sharp_2_data_types.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C_sharp_2_data_types\bin\Debug\netcoreapp3.1\C_sharp_2_data_types.dll
+C:\Users\HP\source\repos\C_sharp_2_data_types\bin\Debug\netcoreapp3.1\C_sharp_2_data_types.pdb
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.AssemblyInfo.cs
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.dll
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.pdb
+C:\Users\HP\source\repos\C_sharp_2_data_types\obj\Debug\netcoreapp3.1\C_sharp_2_data_types.genruntimeconfig.cache

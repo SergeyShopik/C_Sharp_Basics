@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_sharp_6_static_methods_and_fields_linear_algorithms", "C_sharp_6_static_methods_and_fields_linear_algorithms.csproj", "{B2112011-5F43-4421-AC04-3DD1E89F1C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2112011-5F43-4421-AC04-3DD1E89F1C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2112011-5F43-4421-AC04-3DD1E89F1C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2112011-5F43-4421-AC04-3DD1E89F1C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2112011-5F43-4421-AC04-3DD1E89F1C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F67B8A6-F20D-4716-ABFC-EA2A61FD87F6}
+	EndGlobalSection
+EndGlobal

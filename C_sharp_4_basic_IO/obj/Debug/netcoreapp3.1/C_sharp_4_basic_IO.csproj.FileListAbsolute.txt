@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\bin\Debug\netcoreapp3.1\C_sharp_4_basic_IO.exe
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\bin\Debug\netcoreapp3.1\C_sharp_4_basic_IO.deps.json
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\bin\Debug\netcoreapp3.1\C_sharp_4_basic_IO.runtimeconfig.json
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\bin\Debug\netcoreapp3.1\C_sharp_4_basic_IO.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\bin\Debug\netcoreapp3.1\C_sharp_4_basic_IO.dll
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\bin\Debug\netcoreapp3.1\C_sharp_4_basic_IO.pdb
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.AssemblyInfo.cs
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.dll
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.pdb
+C:\Users\HP\source\repos\C_sharp_4_basic_IO\obj\Debug\netcoreapp3.1\C_sharp_4_basic_IO.genruntimeconfig.cache

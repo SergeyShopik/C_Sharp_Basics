@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\bin\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.exe
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\bin\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.deps.json
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\bin\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.runtimeconfig.json
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\bin\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\bin\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.dll
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\bin\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.pdb
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.AssemblyInfo.cs
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.dll
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.pdb
+C:\Users\HP\source\repos\C_sharp_3_basic_syntax\obj\Debug\netcoreapp3.1\C_sharp_3_basic_syntax.genruntimeconfig.cache
